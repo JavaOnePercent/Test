@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Kazan</name>
+    <type></type>
+    <country>RU</country>
+    <timezone></timezone>
+    <location altitude="0" latitude="55.7887" longitude="49.1221" geobase="geonames" geobaseid="551487"></location>
+  </location>
+  <credit></credit>
+  <meta>
+    <lastupdate></lastupdate>
+    <calctime>0.0023</calctime>
+    <nextupdate></nextupdate>
+  </meta>
+  <sun rise="2017-03-10T03:10:09" set="2017-03-10T14:38:06"></sun>
+  <forecast>
+    <time from="2017-03-10T15:00:00" to="2017-03-10T18:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.016" type="snow"></precipitation>
+      <windDirection deg="188.001" code="S" name="South"></windDirection>
+      <windSpeed mps="5.47" name=""></windSpeed>
+      <temperature unit="celsius" value="-4.39" min="-4.39" max="-2.63"></temperature>
+      <pressure unit="hPa" value="1030.85"></pressure>
+      <humidity value="92" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-10T18:00:00" to="2017-03-10T21:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.003" type="snow"></precipitation>
+      <windDirection deg="197.001" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.81" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.96" min="-3.96" max="-2.79"></temperature>
+      <pressure unit="hPa" value="1030.03"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-10T21:00:00" to="2017-03-11T00:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="203.002" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.52" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.34" min="-3.34" max="-2.76"></temperature>
+      <pressure unit="hPa" value="1029.68"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T00:00:00" to="2017-03-11T03:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.015" type="snow"></precipitation>
+      <windDirection deg="204.001" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.46" name=""></windSpeed>
+      <temperature unit="celsius" value="-2.45" min="-2.45" max="-2.45"></temperature>
+      <pressure unit="hPa" value="1028.97"></pressure>
+      <humidity value="93" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T03:00:00" to="2017-03-11T06:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.107" type="snow"></precipitation>
+      <windDirection deg="199" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.91" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.58" min="-1.58" max="-1.58"></temperature>
+      <pressure unit="hPa" value="1028.4"></pressure>
+      <humidity value="97" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T06:00:00" to="2017-03-11T09:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation unit="3h" value="0.006" type="snow"></precipitation>
+      <windDirection deg="200.502" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="6.21" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.71" min="-0.71" max="-0.71"></temperature>
+      <pressure unit="hPa" value="1027.81"></pressure>
+      <humidity value="99" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T09:00:00" to="2017-03-11T12:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="200.5" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="6.01" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.45" min="-0.45" max="-0.45"></temperature>
+      <pressure unit="hPa" value="1026.85"></pressure>
+      <humidity value="94" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T12:00:00" to="2017-03-11T15:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="200.508" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.27" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.16" min="-2.16" max="-2.16"></temperature>
+      <pressure unit="hPa" value="1026.76"></pressure>
+      <humidity value="88" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T15:00:00" to="2017-03-11T18:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="200.002" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.47" name=""></windSpeed>
+      <temperature unit="celsius" value="-3.44" min="-3.44" max="-3.44"></temperature>
+      <pressure unit="hPa" value="1026.66"></pressure>
+      <humidity value="83" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T18:00:00" to="2017-03-11T21:00:00">
+      <symbol number="801" name="few clouds" var="02n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="207.003" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.22" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-4.85" min="-4.85" max="-4.85"></temperature>
+      <pressure unit="hPa" value="1026.99"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-11T21:00:00" to="2017-03-12T00:00:00">
+      <symbol number="801" name="few clouds" var="02n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="211.501" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="4.76" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-6.28" min="-6.28" max="-6.28"></temperature>
+      <pressure unit="hPa" value="1027.24"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T00:00:00" to="2017-03-12T03:00:00">
+      <symbol number="800" name="clear sky" var="02n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="212.501" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="4.57" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-7.65" min="-7.65" max="-7.65"></temperature>
+      <pressure unit="hPa" value="1027.44"></pressure>
+      <humidity value="81" unit="%"></humidity>
+      <clouds value="clear sky" all="8" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T03:00:00" to="2017-03-12T06:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="219.507" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="4.58" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-5.56" min="-5.56" max="-5.56"></temperature>
+      <pressure unit="hPa" value="1027.79"></pressure>
+      <humidity value="90" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T06:00:00" to="2017-03-12T09:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="228.501" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="4.9" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.42" min="-2.42" max="-2.42"></temperature>
+      <pressure unit="hPa" value="1027.79"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="scattered clouds" all="44" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T09:00:00" to="2017-03-12T12:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="231.002" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="4.36" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.13" min="-1.13" max="-1.13"></temperature>
+      <pressure unit="hPa" value="1027.54"></pressure>
+      <humidity value="93" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T12:00:00" to="2017-03-12T15:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="227.502" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="3.57" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.83" min="-2.83" max="-2.83"></temperature>
+      <pressure unit="hPa" value="1027.55"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T15:00:00" to="2017-03-12T18:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="228" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="3.32" name=""></windSpeed>
+      <temperature unit="celsius" value="-4.43" min="-4.43" max="-4.43"></temperature>
+      <pressure unit="hPa" value="1027.53"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T18:00:00" to="2017-03-12T21:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="243.004" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.11" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-4.97" min="-4.97" max="-4.97"></temperature>
+      <pressure unit="hPa" value="1027.66"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-12T21:00:00" to="2017-03-13T00:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.0075" type="snow"></precipitation>
+      <windDirection deg="242.003" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="2.18" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-5.65" min="-5.65" max="-5.65"></temperature>
+      <pressure unit="hPa" value="1027.47"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T00:00:00" to="2017-03-13T03:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.015" type="snow"></precipitation>
+      <windDirection deg="239.003" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.42" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-5.26" min="-5.26" max="-5.26"></temperature>
+      <pressure unit="hPa" value="1027.18"></pressure>
+      <humidity value="91" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T03:00:00" to="2017-03-13T06:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation unit="3h" value="0.0075" type="snow"></precipitation>
+      <windDirection deg="243.003" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.31" name=""></windSpeed>
+      <temperature unit="celsius" value="-3.75" min="-3.75" max="-3.75"></temperature>
+      <pressure unit="hPa" value="1027.14"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T06:00:00" to="2017-03-13T09:00:00">
+      <symbol number="803" name="broken clouds" var="04d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="238.002" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.71" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.86" min="-1.86" max="-1.86"></temperature>
+      <pressure unit="hPa" value="1026.52"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T09:00:00" to="2017-03-13T12:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="241" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="4.02" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.21" min="-1.21" max="-1.21"></temperature>
+      <pressure unit="hPa" value="1025.34"></pressure>
+      <humidity value="97" unit="%"></humidity>
+      <clouds value="scattered clouds" all="44" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T12:00:00" to="2017-03-13T15:00:00">
+      <symbol number="801" name="few clouds" var="02n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="245.001" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.56" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.48" min="-3.48" max="-3.48"></temperature>
+      <pressure unit="hPa" value="1024.75"></pressure>
+      <humidity value="83" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T15:00:00" to="2017-03-13T18:00:00">
+      <symbol number="801" name="few clouds" var="02n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="263.502" code="W" name="West"></windDirection>
+      <windSpeed mps="3.46" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-5.8" min="-5.8" max="-5.8"></temperature>
+      <pressure unit="hPa" value="1024.45"></pressure>
+      <humidity value="83" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T18:00:00" to="2017-03-13T21:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.0125" type="snow"></precipitation>
+      <windDirection deg="263.006" code="W" name="West"></windDirection>
+      <windSpeed mps="3.11" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-6.1" min="-6.1" max="-6.1"></temperature>
+      <pressure unit="hPa" value="1024.27"></pressure>
+      <humidity value="85" unit="%"></humidity>
+      <clouds value="broken clouds" all="64" unit="%"></clouds>
+    </time>
+    <time from="2017-03-13T21:00:00" to="2017-03-14T00:00:00">
+      <symbol number="600" name="light snow" var="13n"></symbol>
+      <precipitation unit="3h" value="0.0475" type="snow"></precipitation>
+      <windDirection deg="254.003" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="1.87" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-4.4" min="-4.4" max="-4.4"></temperature>
+      <pressure unit="hPa" value="1024.23"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="overcast clouds" all="88" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T00:00:00" to="2017-03-14T03:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.0975" type="snow"></precipitation>
+      <windDirection deg="264.001" code="W" name="West"></windDirection>
+      <windSpeed mps="1.77" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.9" min="-3.9" max="-3.9"></temperature>
+      <pressure unit="hPa" value="1024.43"></pressure>
+      <humidity value="93" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T03:00:00" to="2017-03-14T06:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.09" type="snow"></precipitation>
+      <windDirection deg="304.502" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="2.36" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.22" min="-2.22" max="-2.22"></temperature>
+      <pressure unit="hPa" value="1025.39"></pressure>
+      <humidity value="98" unit="%"></humidity>
+      <clouds value="broken clouds" all="64" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T06:00:00" to="2017-03-14T09:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.0575" type="snow"></precipitation>
+      <windDirection deg="319.503" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="1.96" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.76" min="-0.76" max="-0.76"></temperature>
+      <pressure unit="hPa" value="1025.58"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="broken clouds" all="56" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T09:00:00" to="2017-03-14T12:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation unit="3h" value="0.015" type="snow"></precipitation>
+      <windDirection deg="325.5" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="1.62" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.22" min="-0.22" max="-0.22"></temperature>
+      <pressure unit="hPa" value="1025.28"></pressure>
+      <humidity value="95" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T12:00:00" to="2017-03-14T15:00:00">
+      <symbol number="600" name="light snow" var="13n"></symbol>
+      <precipitation unit="3h" value="0.0375" type="snow"></precipitation>
+      <windDirection deg="218.5" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="1.42" name="Calm"></windSpeed>
+      <temperature unit="celsius" value="-1.64" min="-1.64" max="-1.64"></temperature>
+      <pressure unit="hPa" value="1025.25"></pressure>
+      <humidity value="94" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T15:00:00" to="2017-03-14T18:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.0275" type="snow"></precipitation>
+      <windDirection deg="226.505" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="2.56" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.84" min="-3.84" max="-3.84"></temperature>
+      <pressure unit="hPa" value="1024.45"></pressure>
+      <humidity value="85" unit="%"></humidity>
+      <clouds value="scattered clouds" all="48" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T18:00:00" to="2017-03-14T21:00:00">
+      <symbol number="600" name="light snow" var="13n"></symbol>
+      <precipitation unit="3h" value="0.03" type="snow"></precipitation>
+      <windDirection deg="236.008" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="2.52" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-4.79" min="-4.79" max="-4.79"></temperature>
+      <pressure unit="hPa" value="1023.85"></pressure>
+      <humidity value="92" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-14T21:00:00" to="2017-03-15T00:00:00">
+      <symbol number="600" name="light snow" var="13n"></symbol>
+      <precipitation unit="3h" value="0.28" type="snow"></precipitation>
+      <windDirection deg="217.502" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="2.56" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-4.44" min="-4.44" max="-4.44"></temperature>
+      <pressure unit="hPa" value="1022.35"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="overcast clouds" all="88" unit="%"></clouds>
+    </time>
+    <time from="2017-03-15T00:00:00" to="2017-03-15T03:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.5125" type="snow"></precipitation>
+      <windDirection deg="236.003" code="SW" name="Southwest"></windDirection>
+      <windSpeed mps="3.26" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.46" min="-3.46" max="-3.46"></temperature>
+      <pressure unit="hPa" value="1020.98"></pressure>
+      <humidity value="93" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-03-15T03:00:00" to="2017-03-15T06:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.035" type="snow"></precipitation>
+      <windDirection deg="271.515" code="W" name="West"></windDirection>
+      <windSpeed mps="3.22" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.24" min="-2.24" max="-2.24"></temperature>
+      <pressure unit="hPa" value="1020.64"></pressure>
+      <humidity value="98" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-03-15T06:00:00" to="2017-03-15T09:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.03" type="snow"></precipitation>
+      <windDirection deg="267.002" code="W" name="West"></windDirection>
+      <windSpeed mps="3.06" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.3" min="-0.3" max="-0.3"></temperature>
+      <pressure unit="hPa" value="1019.92"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-03-15T09:00:00" to="2017-03-15T12:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.0425" type="snow"></precipitation>
+      <windDirection deg="258.001" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="3.26" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="0.61" min="0.61" max="0.61"></temperature>
+      <pressure unit="hPa" value="1019.51"></pressure>
+      <humidity value="97" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-03-15T12:00:00" to="2017-03-15T15:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.0225" type="snow"></precipitation>
+      <windDirection deg="245.001" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="2.52" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.01" min="-1.01" max="-1.01"></temperature>
+      <pressure unit="hPa" value="1019.46"></pressure>
+      <humidity value="92" unit="%"></humidity>
+      <clouds value="broken clouds" all="56" unit="%"></clouds>
+    </time>
+  </forecast>
+</weatherdata>

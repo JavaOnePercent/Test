@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<current>
+  <city id="2752349" name="Kraaijenstein">
+    <coord lon="4.23" lat="52.05"></coord>
+    <country>NL</country>
+    <sun rise="2017-03-13T06:01:03" set="2017-03-13T17:44:44"></sun>
+  </city>
+  <temperature value="0.98" min="0" max="2" unit="metric"></temperature>
+  <humidity value="99" unit="%"></humidity>
+  <pressure value="1022" unit="hPa"></pressure>
+  <wind>
+    <speed value="1" name="Calm"></speed>
+    <gusts></gusts>
+    <direction value="260" code="W" name="West"></direction>
+  </wind>
+  <clouds value="24" name="few clouds"></clouds>
+  <visibility value="10000"></visibility>
+  <precipitation mode="no"></precipitation>
+  <weather number="701" value="mist" icon="50n"></weather>
+  <lastupdate value="2017-03-13T05:55:00"></lastupdate>
+</current>

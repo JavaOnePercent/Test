@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<current>
+  <city id="551487" name="Kazan">
+    <coord lon="49.12" lat="55.79"></coord>
+    <country>RU</country>
+    <sun rise="2017-03-10T03:10:09" set="2017-03-10T14:38:06"></sun>
+  </city>
+  <temperature value="-5" min="-5" max="-5" unit="metric"></temperature>
+  <humidity value="100" unit="%"></humidity>
+  <pressure value="1032" unit="hPa"></pressure>
+  <wind>
+    <speed value="4" name="Gentle Breeze"></speed>
+    <gusts></gusts>
+    <direction value="160" code="SSE" name="South-southeast"></direction>
+  </wind>
+  <clouds value="20" name="few clouds"></clouds>
+  <visibility value="8000"></visibility>
+  <precipitation mode="no"></precipitation>
+  <weather number="801" value="few clouds" icon="02n"></weather>
+  <lastupdate value="2017-03-10T15:00:00"></lastupdate>
+</current>

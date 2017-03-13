@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Kazan</name>
+    <type></type>
+    <country>RU</country>
+    <timezone></timezone>
+    <location altitude="0" latitude="55.7887" longitude="49.1221" geobase="geonames" geobaseid="551487"></location>
+  </location>
+  <credit></credit>
+  <meta>
+    <lastupdate></lastupdate>
+    <calctime>0.0257</calctime>
+    <nextupdate></nextupdate>
+  </meta>
+  <sun rise="2017-03-13T03:03:23" set="2017-03-13T14:43:28"></sun>
+  <forecast>
+    <time day="2017-03-13">
+      <symbol number="800" name="sky is clear" var="01d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="238" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="4.25" name="Gentle Breeze"></windSpeed>
+      <temperature day="-0.64" min="-5.76" max="-0.04" night="-5.76" eve="-1.49" morn="-3"></temperature>
+      <pressure unit="hPa" value="1025.53"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time day="2017-03-14">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation value="0.39" type="snow"></precipitation>
+      <windDirection deg="58" code="ENE" name="East-northeast"></windDirection>
+      <windSpeed mps="1.87" name="Light breeze"></windSpeed>
+      <temperature day="0.42" min="-4.13" max="0.76" night="-2.36" eve="-0.64" morn="-4.13"></temperature>
+      <pressure unit="hPa" value="1025.71"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time day="2017-03-15">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation value="0.13" type="snow"></precipitation>
+      <windDirection deg="178" code="S" name="South"></windDirection>
+      <windSpeed mps="3.93" name="Gentle Breeze"></windSpeed>
+      <temperature day="-2.85" min="-7.99" max="-2.5" night="-7.99" eve="-5.07" morn="-5.3"></temperature>
+      <pressure unit="hPa" value="1023.66"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="few clouds" all="20" unit="%"></clouds>
+    </time>
+    <time day="2017-03-16">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation value="0.59" type="snow"></precipitation>
+      <windDirection deg="179" code="S" name="South"></windDirection>
+      <windSpeed mps="5.28" name="Gentle Breeze"></windSpeed>
+      <temperature day="-3.58" min="-6.4" max="0.72" night="-0.63" eve="0.72" morn="-6.4"></temperature>
+      <pressure unit="hPa" value="1012.53"></pressure>
+      <humidity value="0" unit="%"></humidity>
+      <clouds value="overcast clouds" all="94" unit="%"></clouds>
+    </time>
+    <time day="2017-03-17">
+      <symbol number="601" name="snow" var="13d"></symbol>
+      <precipitation value="1.55" type="snow"></precipitation>
+      <windDirection deg="189" code="S" name="South"></windDirection>
+      <windSpeed mps="4.87" name="Gentle Breeze"></windSpeed>
+      <temperature day="-0.07" min="-1" max="0.97" night="0.41" eve="0.97" morn="-1"></temperature>
+      <pressure unit="hPa" value="1012.46"></pressure>
+      <humidity value="0" unit="%"></humidity>
+      <clouds value="overcast clouds" all="96" unit="%"></clouds>
+    </time>
+    <time day="2017-03-18">
+      <symbol number="601" name="snow" var="13d"></symbol>
+      <precipitation value="1.51" type="snow"></precipitation>
+      <windDirection deg="194" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="3.56" name="Gentle Breeze"></windSpeed>
+      <temperature day="0.44" min="0.11" max="0.76" night="0.11" eve="0.76" morn="0.35"></temperature>
+      <pressure unit="hPa" value="1014.54"></pressure>
+      <humidity value="0" unit="%"></humidity>
+      <clouds value="overcast clouds" all="97" unit="%"></clouds>
+    </time>
+    <time day="2017-03-19">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation value="0.62" type="snow"></precipitation>
+      <windDirection deg="195" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="4.64" name="Gentle Breeze"></windSpeed>
+      <temperature day="0.36" min="-0.02" max="0.83" night="-0.02" eve="0.83" morn="0.05"></temperature>
+      <pressure unit="hPa" value="1015.13"></pressure>
+      <humidity value="0" unit="%"></humidity>
+      <clouds value="broken clouds" all="77" unit="%"></clouds>
+    </time>
+  </forecast>
+</weatherdata>
